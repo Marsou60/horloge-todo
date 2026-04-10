@@ -104,8 +104,8 @@
         android:layout_gravity="bottom|end"
         android:layout_margin="16dp"
         android:text="@string/add_expense"
+        android:textColor="@android:color/white"
         app:icon="@drawable/ic_add"
-        app:iconTint="@android:color/white"
-        style="@style/Widget.Material3.ExtendedFloatingActionButton.Icon" />
+        app:iconTint="@android:color/white" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
