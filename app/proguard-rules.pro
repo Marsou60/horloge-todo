@@ -1,0 +1,2 @@
+-keep class com.marsou.notesfrais.data.model.** { *; }
+-keepclassmembers class * extends androidx.room.RoomDatabase { *; }
