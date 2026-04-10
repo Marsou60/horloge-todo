@@ -68,9 +68,8 @@ dependencies {
     implementation 'androidx.camera:camera-lifecycle:1.3.2'
     implementation 'androidx.camera:camera-view:1.3.2'
 
-    // ML Kit - Text Recognition (OCR)
+    // ML Kit - Text Recognition (OCR) — supporte déjà le français (Latin script)
     implementation 'com.google.mlkit:text-recognition:16.0.0'
-    implementation 'com.google.mlkit:text-recognition-french:16.0.0'
 
     // RecyclerView & SwipeRefresh
     implementation 'androidx.recyclerview:recyclerview:1.3.2'
